@@ -1,1 +1,1 @@
-# Adding YelpCamp
+# YelpCamp
