@@ -18,7 +18,7 @@ const User=require('./models/user.js')
 const userRoute=require('./routers/users.js')
 const mongoSanitize = require('express-mongo-sanitize');
 const helmet=require('helmet')
-// ||'mongodb://localhost:27017/yelp-camp'
+
 
 
 mongoose.set('strictQuery', true);
